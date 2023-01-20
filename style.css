@@ -1,0 +1,328 @@
+.header{
+    background-color: #dfdfdf;
+    padding: 20px;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    border-radius: 10px;
+}
+.heada{
+  text-align: left;
+  text-decoration: none;
+  color: black;
+  font-style: Impact;
+  font-size: 22px;
+ }
+.headb{
+    float: right;
+    color: white;
+}
+.headb a:hover{
+  background-color: lightblue;
+  font: 10px;
+  border-radius: 10px;
+}
+.headb a{
+    text-decoration: none;
+    color: black;
+    padding: 15px;
+    font-size: 22px;
+    font-style: Impact;
+}
+
+.img1{
+    height: 40px;
+}
+
+.bg{
+    background-image: url('../images/backimg.jpg');
+    height: 550px;
+    border-radius: 10px;
+}
+.title{
+    padding-top: 250px;
+    text-align: center;
+    font: cursive;
+    color: white;
+    font-size: 40px;
+}
+.title button{
+    background-color: #48c6df;
+    padding: 15px;
+    border-radius: 30px;
+    width: 200px;
+    font-size: 20px;
+}
+.b1{
+    color: lightblue;
+}
+
+.temp h1{
+    text-align: center;
+    font-size: 50px;
+    font: italic;
+    color: yellow;
+}
+
+.img2{
+    height: 200px;
+    padding-left: 50px;
+}
+.b2{
+    padding-left: 60px;
+    color: green;
+    font-size: 19px;
+}
+.button1{
+    color: white;
+    background-color: blue;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 60px;
+    width: 150px;
+}
+
+.artc1{
+    text-align: center;
+    color: blue;
+    
+}
+
+.footer{
+    margin-top: 100px;
+    background-color: black;
+    color: white;
+    padding: 150px;
+}
+
+.footer img{
+    height: 30px;
+}
+
+.footer table{
+    color: white;
+}
+
+.td1{
+    padding-left: 180px;
+}
+
+.td2{
+    padding-left: 180px;
+}
+
+.span1{
+    font-family: 'Kanit', sans-serif;
+    font-size: 50px;
+    text-decoration: none;
+}
+
+.devlop{
+    text-align: center;
+}
+
+.img123{
+    height: 250px;
+}
+
+.span2{
+    font-family: 'Kanit', sans-serif;
+    font-size: 15px;
+}
+
+.margin12{
+    margin: 0 auto;
+}
+
+.span3{
+    font-family: 'Marhey', cursive; 
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    color: aqua;
+    margin-left: 580px;
+    text-decoration: solid;
+}
+
+.span4{
+    font-family: 'Marhey', cursive; 
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    margin-left: 100px;
+    margin-right: 650px;
+    text-decoration: solid;
+}
+
+.input1{
+    padding: 10px;
+    margin-left: 100px;
+    width: 400px;
+    padding-top: 15px;
+}
+
+.massage{
+    height: 100px;
+    width: 400px;
+    margin-left: 100px;
+}
+
+.span6{
+    font-family: 'Marhey', cursive; 
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    text-decoration: solid;
+    margin-right: 550px;
+}
+.span7{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 30px;
+    text-decoration: solid;
+    margin-left: 590px;
+}
+
+.img3{
+    height: 200px;
+    margin-left: 100px;
+}
+
+.span8{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 20px;
+    text-decoration: solid;
+}
+
+.span9{
+    color: #696969;
+    font-family: 'Patrick Hand', cursive;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.span10{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 20px;
+    text-decoration: solid;
+    margin-left: 100px;
+}
+.span11{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 20px;
+    text-decoration: solid;
+    margin-left: 100px;
+}
+
+.ul1{
+    margin-left: 100px;
+}
+
+.table1{
+    background-color: #8d8c8c;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.backcolor{
+    background-color: rgb(127, 247, 247);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.span12{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 30px;
+    text-decoration: solid;
+    text-align: center;
+    color: red;
+}
+
+.img4{
+    height: 150px;
+    margin-left: 160px;
+}
+
+.img5{
+    height: 150px;
+    margin-left: 160px;
+    margin-top: 30px;
+}
+
+.a1{
+    margin-left: 600px;
+}
+
+.span13{
+    font-family: 'Nerko One', cursive;
+    font-size: 23px;
+    margin-left: 200px;
+}
+
+.span14{
+    font-family: 'Nerko One', cursive;
+    font-size: 40px;
+}
+
+.img6{
+    margin-left: 50px;
+}
+
+.span15{
+    font-family: 'Kanit', sans-serif;
+    font-size: 25px;
+    margin-left: 150px;
+}
+
+.img7{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.span15{
+    font-family: 'Nerko One', cursive;
+    font-size: 30px;
+    margin-left: 490px;
+}
+
+.input2{
+    width: 300px;
+    margin-left: 100px;
+    height: 50px;
+}
+
+.input3{
+    margin-left: 100px;
+}
+
+.select1{
+    padding: 10px;
+    width: 150px;
+    margin-left: 100px;
+}
+
+.span16{
+    font-family: 'Kanit', sans-serif;
+    font-size: 20px;
+    margin-left: 100px;
+}
+
+.span17{
+    font-family: 'Kanit', sans-serif;
+    font-size: 30px;
+    margin-left: 100px;
+}
+
+.button2{
+    margin-left: 100px;
+    background-color: rgb(85, 243, 243);
+    margin-top: 20px;
+    padding: 10px;
+    width: 200px;
+}
+
+.thank{
+    margin-left: 435;
+    font-size: 85px;
+}
+
+.thank1{
+    margin-left: 435;
+    font-size: 45px;
+}
